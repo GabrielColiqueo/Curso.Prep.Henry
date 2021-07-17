@@ -1,0 +1,65 @@
+body {
+	background-image:url(rustic-stone-wall-wallpaper-gray.jpg)
+}
+
+div {
+	display: flex;
+	flex-flow: wrap column;
+	justify-content: center;
+	align-content: center;
+
+}
+
+img {
+	display: flex;
+	width: 400px;
+}
+
+h1 {
+	display: flex;
+	flex-flow: wrap column;
+	justify-content: center;
+	align-content: center;
+	color: white;
+}
+
+h3 {
+	display: flex;
+	flex-flow: wrap column;
+	justify-content: center;
+	align-content: center;
+	color: white;
+
+}
+
+h4 {
+	display: flex;
+	flex-flow: wrap column;
+	justify-content: center;
+	align-content: center;
+	color: white;
+}
+
+a {
+	color: white;
+	margin-left: auto;
+	margin-right: auto; 
+}
+
+#thirdDiv{
+	display: flex;
+	height: 600px; 
+	width: 500px; 
+	background-color: #FFC361;
+	margin-left: auto;
+	margin-right: auto; 
+	padding: 50px; 
+	border: 5px solid #B10606;
+
+}
+
+#spanId {
+	color: white;
+	font-size: 18px;
+	margin: 50px;
+}
